@@ -65,7 +65,7 @@ Now that our data is cleaned, we can explore them using standard visual and stat
 ### 3.A Features Distributions ([to top](#top))
 We start our analysis by having a look at the ditribution of the number of crimes over the years.
 
---GRAPH HERE--
+![All Crimes](imgs/crime_year.png)
 
 The line graph above shows that the number of crimes is equally distributed between the years with the peaks in 2008, 2012 and 2016; while in 2013 and 2014 there were fewer crimes.
 In particular, the maximum number of crimes is in 2008 with a total of 738k crimes, while the lowest value is in 2014 with 680k crimes.
