@@ -3,9 +3,6 @@
 # London Crime - Big Data Analytics | a.y. 2018/19
 #### Amendola M. Cornacchia G. Salinas M.
 <hr>
-
-*All the additional data that has been used can be found in the ``data`` folder provided with this notebook*
-
 ## Table of Contents
 1. [Dataset Description](#dataset) 
 2. [Data Cleaning](#cleaning) 
