@@ -67,4 +67,4 @@ We start our analysis by having a look at the ditribution of the number of crime
 The line graph above shows that the number of crimes is equally distributed between the years with the peaks in 2008, 2012 and 2016; while in 2013 and 2014 there were fewer crimes.
 In particular, the maximum number of crimes is in 2008 with a total of 738k crimes, while the lowest value is in 2014 with 680k crimes.
 
-The trend can be defined as costant unless small fluctuations of $\pm 0.1\%$.
+The trend can be defined as costant unless small fluctuations.
